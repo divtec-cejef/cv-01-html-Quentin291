@@ -30,3 +30,9 @@ main img {
     max-width: 50%;
     height: 50%;
 }
+ul {
+    color: orange;
+}
+ul p {
+    color: darkorange;
+}

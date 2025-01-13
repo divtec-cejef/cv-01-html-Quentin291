@@ -11,6 +11,9 @@ body {
     color: black;    
     background-image: url("img/font.avif"); 
 }
+#top {
+    box-shadow: 10px 5px 5px gold;
+}
 #expe {
     font-size: 20px 
 }

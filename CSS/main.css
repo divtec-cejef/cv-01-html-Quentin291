@@ -12,6 +12,7 @@ body {
     background-image: url("img/font.avif"); 
 }
 #top {
+    color: black;
     box-shadow: 10px 5px 5px gold;
 }
 #expe {

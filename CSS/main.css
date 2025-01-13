@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     margin-left: .22em;
+    background-image: url("img/font.avif"); 
 }
 
 body {
@@ -8,8 +9,7 @@ body {
     font-weight: 400;
     font-size: 1.1rem;
     line-height: 1.4;
-    color: black;    
-    background-image: url("img/font.avif"); 
+    color: black;   
 }
 #top {
     color: black;

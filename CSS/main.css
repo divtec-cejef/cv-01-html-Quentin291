@@ -16,11 +16,11 @@ body {
 }
 #top {
     color: black;
-    box-shadow: 5px 2px 35px 15px gold;
-    text-shadow: 2px 2px 5px orange;
+    box-shadow: 5px 2px 35px 15px #f7ff00;
+    text-shadow: 2px 2px 5px rgba(255, 166, 0, 0.88);
 }
-#top p {
-    color: cyan;
+#topp {
+    color: #afa225;
 }
 #expe {
     font-size: 20px 
@@ -45,9 +45,9 @@ a {
 }
 
 a:hover {
-    color: goldenrod;
+    color: #ceaa4a;
 }
 ul {
-    color: darkorange;
+    color: #e7cd47;
     list-style-position: inside;
 }

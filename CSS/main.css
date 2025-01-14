@@ -44,4 +44,5 @@ a:hover {
 }
 ul {
     color: darkorange;
+    list-style-position: insinde;
 }

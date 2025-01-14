@@ -9,7 +9,7 @@ body {
     font-size: 1.1rem;
     line-height: 1.4;
     color: black;   
-    background-image: url("../img/background.jpg"); 
+    background-image: url("../img/background.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -17,7 +17,6 @@ body {
 #top {
     color: black;
     box-shadow: 10px 5px 44px gold;
-    width: 19rem;
     text-align: center;
 }
 #expe {

@@ -33,7 +33,9 @@ img {
     height: auto;
     width: auto;
 }
-
+main img {
+    max-width: 50%;
+}
 a {
     color: gold;
     text-decoration: none;

@@ -16,8 +16,8 @@ body {
 }
 #top {
     color: black;
-    box-shadow: 10px 5px 44px gold;
-    width: 25%;
+    box-shadow: 10px 5px 44px 5px gold;
+   
 }
 #expe {
     font-size: 20px 

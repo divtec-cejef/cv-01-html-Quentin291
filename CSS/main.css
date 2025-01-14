@@ -17,6 +17,8 @@ body {
 #top {
     color: black;
     box-shadow: 5px 2px 35px 15px gold;
+    box-sizing: content-box;
+    width: 100%;
     text-shadow: 2px 2px 5px orange;
 }
 #top p {

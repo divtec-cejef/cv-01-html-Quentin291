@@ -15,12 +15,10 @@ body {
     background-repeat: no-repeat;
 }
 #top {
-    color: black;
-    box-shadow: 5px 2px 35px 15px #f7ff00;
     text-shadow: 2px 2px 5px rgba(255, 166, 0, 0.88);
 }
 #topp {
-    color: #afa225;
+    color: #e7cd47;
 }
 #expe {
     font-size: 20px 
@@ -37,7 +35,7 @@ img {
     width: auto;
 }
 main img {
-    max-width: 65%;
+    max-width: 50%;
 }
 a {
     color: gold;

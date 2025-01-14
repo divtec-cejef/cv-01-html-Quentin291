@@ -42,13 +42,6 @@ a {
 a:hover {
     color: goldenrod;
 }
-main img {
-    max-width: 50%;
-    height: 50%;
-}
 ul {
     color: darkorange;
-}
-li {
-    color: orange;
 }

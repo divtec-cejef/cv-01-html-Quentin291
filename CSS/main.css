@@ -15,12 +15,7 @@ body {
     background-repeat: no-repeat;
 }
 #top {
-    color: black;
-    box-shadow: 5px 2px 35px 15px gold;
-    text-shadow: 2px 2px 5px orange;
-}
-#top p {
-    color: cyan;
+    text-shadow: 2px 2px 5px rgba(255, 166, 0, 0.88);
 }
 #expe {
     font-size: 20px 
@@ -37,17 +32,15 @@ img {
     width: auto;
 }
 main img {
-    max-width: 65%;
+    max-width: 50%;
 }
 a {
-    color: gold;
+    color: coral;
     text-decoration: none;
 }
-
 a:hover {
     color: goldenrod;
 }
 ul {
-    color: darkorange;
     list-style-position: inside;
 }

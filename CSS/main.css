@@ -17,9 +17,6 @@ body {
 #top {
     text-shadow: 2px 2px 5px rgba(255, 166, 0, 0.88);
 }
-#topp {
-    color: #e7cd47;
-}
 #expe {
     font-size: 20px 
 }
@@ -38,14 +35,12 @@ main img {
     max-width: 50%;
 }
 a {
-    color: gold;
+    color: coral;
     text-decoration: none;
 }
-
 a:hover {
-    color: #ceaa4a;
+    color: goldenrod;
 }
 ul {
-    color: #e7cd47;
     list-style-position: inside;
 }
